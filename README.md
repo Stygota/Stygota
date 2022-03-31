@@ -21,8 +21,8 @@
 - Modern JavaScript (ES6 / 2015+) / TypeScript
 - Node.js
 - a whole lot of PowerShell and CIM (WMI)
-##📫 How to reach me ...
-*Leave a comment below!*
+## 📫 How to reach me ...
+** *Leave a comment below!* **
 
 <!---
 Stygota/Stygota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
