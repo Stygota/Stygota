@@ -8,6 +8,7 @@
 - .NET via C# and VB.NET
 - A smattering of EF6 / Not a whole lot of EF Core
 - Access, Excel, and Office / Office365 Automation
+- CMS feature creation / expansion / maintenance
 - a whole lot of ETL and business automation needs
 ## 👀 I’m interested in ...
 - CSS3 / HTML5
