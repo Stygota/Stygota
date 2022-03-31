@@ -22,7 +22,7 @@
 - Node.js
 - a whole lot of PowerShell and CIM (WMI)
 ## 📫 How to reach me ...
-**_Leave a comment below!_**
+**_Coming soon!_**
 
 <!---
 Stygota/Stygota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
