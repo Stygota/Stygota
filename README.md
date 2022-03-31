@@ -1,5 +1,5 @@
 #👋 Hi, I’m @Stygota#
-## Previous experience and exposure..##
+##Previous experience and exposure..##
 - JavaScript (pre-ES6) / HTML 4.01 / CSS2
 - XPath 1.0 and 2.0 / XSLT transforms
 - SQL Server 2005-2019 / Various Oracle / Hadoop via Impala and Hive
