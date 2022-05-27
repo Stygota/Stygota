@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Stygota
-![My profile picture - man with blue-grey eyes, red beard, and short dirty blonde hair looking at camera.](headshot_small.png)
+![My profile picture - man with blue-grey eyes, red beard, and short dirty blonde hair looking at camera.](headshot_small.png =500x400)
 ## :computer: Previous experience and exposure..
 - JavaScript (pre-ES6) / HTML 4.01 / CSS2
 - Modern (post-ES6) JavaScript / HTML5 / CSS3
