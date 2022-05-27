@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Stygota
+![My profile picture - man with blue-grey eyes, red beard, and short dirty blonde hair looking at camera.](https://twitter.com/the_stygian/photo)
 ## :computer: Previous experience and exposure..
 - JavaScript (pre-ES6) / HTML 4.01 / CSS2
 - Modern (post-ES6) JavaScript / HTML5 / CSS3
