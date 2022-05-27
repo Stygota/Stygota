@@ -1,7 +1,5 @@
 <h1>👋 Hi, I’m @Stygota</h1>
-<picture>
-  <img src="headshot_small.png" alt="My profile picture - man with blue-grey eyes, red beard, and short dirty blonde hair looking at camera" height="500" width="400" />
-</picture>
+<img src="https://github.com/Stygota/Stygota/blob/main/headshot_small.png?v2022-05-26" alt="My profile picture - man with blue-grey eyes, red beard, and short dirty blonde hair looking at camera" height="500" width="400" />
 <h2>:computer: Previous experience and exposure..</h2>
 <ul><li>JavaScript (pre-ES6) / HTML 4.01 / CSS2</li>
   <li>Modern (post-ES6) JavaScript / HTML5 / CSS3</li>
